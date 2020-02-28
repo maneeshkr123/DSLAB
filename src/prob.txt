@@ -1,0 +1,1 @@
+WAP to create a binary search tree while traversing an existing tree in in-order.
